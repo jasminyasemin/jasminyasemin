@@ -1,4 +1,4 @@
-# Jasmin Yasemin Kıcıman
+# Jasmin Yasemin Kıcım
 
 ## ✨ About Me  
 I'm a Full Stack Web Development student currently enrolled in the **Patika+ Fullstack Bootcamp**. I also study **Economics and Finance at Istanbul Bilgi University**, where I’ve developed strong analytical and problem-solving skills.  
@@ -18,7 +18,7 @@ I'm passionate about building responsive, user-friendly interfaces and transform
   <!-- Frontend Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/>
 
   <!-- Tools -->
